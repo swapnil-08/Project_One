@@ -29,7 +29,8 @@ ALLOWED_HOSTS = ["192.168.0.186", "127.0.0.1"]
 
 
 # Application definition
-
+wecwec
+wewe
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
