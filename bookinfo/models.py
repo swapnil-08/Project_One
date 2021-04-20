@@ -21,3 +21,7 @@ class Book(models.Model):
         db_table = "book"
 
 wefwefew
+
+
+
+hi hello
