@@ -11,5 +11,6 @@ router.register(r'book', BookViewSet, basename='book')
 class Student:
     def __init__(self, name):
         self.Name = name
-
 s1 = Student(name='abc')
+s2 = Student(name='pqr')
+s3 = Student(name='xyz')
