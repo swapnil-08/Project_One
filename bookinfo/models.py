@@ -20,9 +20,10 @@ class Book(models.Model):
     class Meta:
         db_table = "book"
 
-wefwefew
 
 
-
-hi hello
-bye good night
+def my_gen():
+    yield 1
+    yield 2
+    yield 3
+    yield 4
